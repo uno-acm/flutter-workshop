@@ -1,6 +1,6 @@
 # UNO Chat App
 
-This is a cross-platform chat application built using Flutter and Firebase as a part of a workshop hosted by [UNO ACM](https://unoacm.org/).
+This is a cross-platform chat application built using Flutter and Firebase as a part of a workshop hosted by [UNO ACM](https://unoacm.org/) in Fall 2024.
 
 ## Table of Contents
 
@@ -31,8 +31,8 @@ This is a cross-platform chat application built using Flutter and Firebase as a 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/uno-chat.git
-cd uno-chat
+git clone https://github.com/uno-acm/flutter-workshop.git
+cd flutter-workshop
 ```
 
 2. Install dependencies:
